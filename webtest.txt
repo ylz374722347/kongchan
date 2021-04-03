@@ -1,0 +1,6 @@
+1、"https://www.baidu.com/s?wd=king&ie=utf-8"
+解释该URL的组成
+2、BS和CS的区别和联系
+3、说一下什么是对等网络
+4、解释一下TCP的三次握手
+5、TCP的六个标志位里，四次挥手涉及哪些？以及TCP为什么是四次挥手
